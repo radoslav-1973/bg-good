@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+<title>Умрели през 2023</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/w3pro.css">
+<style>
+.mySlides {display:none;}
+.w3-blue{color:#fff!important;background-color:#3589f1!important}
+.w3-light-blue,.w3-hover-light-blue:hover{color:#000!important;background-color:#98c3f8!important}
+.w3-light2-blue,.w3-hover-light2-blue:hover{color:#000!important;background-color:#76aff5!important}
+.w3-text-red,.w3-hover-text-red:hover{color:#f44336!important}
+</style>
+
+<meta 
+	name="Умрели през 2023"
+	content="">
+</head>
+
+<body class="w3-light-gray">
+
+<div class="w3-top w3-blue">
+	<a href="/" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-left">Начало</a>
+	<a target="_blank" href="https://www.parliament.bg/bg/const" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-hide-small w3-hide-medium w3-left">Конституция </a>
+	<a href="/contact.html" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-hide-small w3-hide-medium w3-right">Контакт</a>
+	<a href="/links.html" class="w3-bar-item  w3-button w3-padding-16 w3-hover-light-blue w3-hide-small w3-hide-medium w3-right">Връзки</a>
+	<a href="javascript:void(0)" id="myButton" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-right w3-hide-large" style="width: 100px" onclick="myMenu()">&#9776; &nbsp; Меню</a>  
+<div class="w3-bar w3-blue" style="text-align: center; width: 12%; min-width: 410px; margin: auto;">
+	<a href="/base.html" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-hide-small w3-hide-medium">База</a>
+	<a href="/facts/" class="w3-bar-item w3-button w3-padding-16 w3-light2-blue w3-hover-light2-blue w3-hide-small w3-hide-medium">Факти</a>
+	<a href="/discussion/page/1/" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-hide-small w3-hide-medium">Дискусия</a>
+	<a href="/benevoles/" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-hide-small w3-hide-medium">Доброволци</a>
+</div>
+</div>
+
+<nav id="mySidebar" class="w3-sidebar w3-bar-block w3-card w3-top w3-blue w3-center w3-hide w3-hide-large" style="width: 100%; height: 85%; margin-top: 54px;">
+	<img class="w3-image w3-padding-32" src="/images/logo/tree-1.svg" alt="tree" style="width: 25%;">
+	<img class="w3-image w3-padding-32" src="/images/logo/nuclear-power-plant.svg" alt="nuclear-power-plant" style="width: 15%;">
+	<img class="w3-image w3-padding-32" src="/images/logo/tree-2.svg" alt="tree" style="width: 25%;">
+	<a target="_blank" href="https://www.parliament.bg/bg/const" class="w3-bar-item w3-button w3-padding-16 w3-border w3-hover-light-blue">Конституция </a>
+	<a href="/base.html" class="w3-bar-item w3-button w3-padding-16 w3-border-bottom w3-hover-light-blue">База</a>
+	<a href="/facts/" class="w3-bar-item w3-button w3-padding-16 w3-border-bottom w3-light2-blue w3-hover-light2-blue">Факти</a>
+	<a href="/discussion/page/1/" class="w3-bar-item w3-button w3-padding-16 w3-border-bottom w3-hover-light-blue">Дискусия</a>
+	<a href="/benevoles/" class="w3-bar-item w3-button w3-padding-64 w3-border-bottom w3-hover-light-blue">Доброволци</a>
+	<a href="/links.html" class="w3-bar-item w3-button w3-padding-16 w3-border-bottom w3-hover-light-blue">Връзки</a>
+	<a href="/contact.html" class="w3-bar-item w3-button w3-padding-16 w3-border-bottom w3-hover-light-blue">Контакт</a>
+	<a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding-16 w3-border-bottom w3-hover-light-blue" onclick="myMenu()">&times; Затвори</a>
+</nav>
+
+<div class="w3-content" style="max-width: 1100px; margin-top: 75px">
+	<div class="w3-container w3-center">	
+	  <h2>Умрели през 2023 г. по области на 1 000 души от населението</h2>
+		<input class="w3-input w3-border w3-padding" type="text" placeholder="Търсене по град" id="myInput" onkeyup="Search()">
+
+		  <table class="w3-table-all w3-margin-top" id="myTable">
+			<tr>
+			  <th style="width:38%;">Области</th>
+			  <th style="width:31%;">В градове</th>
+			  <th style="width:31%;">В села</th>
+			</tr>
+			<tr>
+			  <td>Общо</td>
+			  <td>13.7</td>
+			  <td>21.0</td>
+			</tr>
+			<tr>
+			  <td>Благоевград</td>
+			  <td>11.8</td>
+			  <td>15.1</td>
+			</tr>
+			<tr>
+			  <td>Бургас</td>
+			  <td>13.1</td>
+			  <td>17.3</td>
+			</tr>
+			<tr>
+			  <td>Варна</td>
+			  <td>12.2</td>
+			  <td>20.7</td>
+			</tr>
+			<tr>
+			  <td>В. Търново</td>
+			  <td>14.9</td>
+			  <td>25.5</td>
+			</tr>
+			<tr>
+			  <td>Видин</td>
+			  <td>18.0</td>
+			  <td>32.7</td>
+			</tr>
+			<tr>
+			  <td>Враца</td>
+			  <td>15.5</td>
+			  <td>25.1</td>
+			</tr>
+			<tr>
+			  <td>Габрово</td>
+			  <td>19.0</td>
+			  <td>33.2</td>
+			</tr>
+			<tr>
+			  <td>Добрич</td>
+			  <td>16.2</td>
+			  <td>23.9</td>
+			</tr>
+			<tr>
+			  <td>Кърджали</td>
+			  <td>12.1</td>
+			  <td>16.5</td>
+			</tr>
+			<tr>
+			  <td>Кюстендил</td>
+			  <td>18.7</td>
+			  <td>25.6</td>
+			</tr>
+			<tr>
+			  <td>Ловеч</td>
+			  <td>17.4</td>
+			  <td>24.7</td>
+			</tr>
+			<tr>
+			  <td>Монтана</td>
+			  <td>17.8</td>
+			  <td>28.5</td>
+			</tr>
+			<tr>
+			  <td>Пазарджик</td>
+			  <td>15.8</td>
+			  <td>18.3</td>
+			</tr>
+			<tr>
+			  <td>Перник</td>
+			  <td>17.3</td>
+			  <td>30.8</td>
+			</tr>
+			<tr>
+			  <td>Плевен</td>
+			  <td>16.2</td>
+			  <td>26.1</td>
+			</tr>
+			<tr>
+			  <td>Пловдив</td>
+			  <td>13.2</td>
+			  <td>18.3</td>
+			</tr>
+			<tr>
+			  <td>Разград</td>
+			  <td>16.9</td>
+			  <td>18.1</td>
+			</tr>
+			<tr>
+			  <td>Русе</td>
+			  <td>15.7</td>
+			  <td>26.4</td>
+			</tr>
+			<tr>
+			  <td>Силистра</td>
+			  <td>18.0</td>
+			  <td>18.5</td>
+			</tr>
+			<tr>
+			  <td>Сливен</td>
+			  <td>14.4</td>
+			  <td>17.7</td>
+			</tr>
+			<tr>
+			  <td>Смолян</td>
+			  <td>13.6</td>
+			  <td>21.4</td>
+			</tr>
+			<tr>
+			  <td>София</td>
+			  <td>15.3</td>
+			  <td>21.2</td>
+			</tr>
+			<tr>
+			  <td>Столична</td>
+			  <td>11.3</td>
+			  <td>13.1</td>
+			</tr>
+			<tr>
+			  <td>Стара Загора</td>
+			  <td>14.1</td>
+			  <td>22.6</td>
+			</tr>
+			<tr>
+			  <td>Търговище</td>
+			  <td>15.0</td>
+			  <td>21.0</td>
+			</tr>
+			<tr>
+			  <td>Хасково</td>
+			  <td>14.7</td>
+			  <td>22.2</td>
+			</tr>
+			<tr>
+			  <td>Шумен</td>
+			  <td>15.2</td>
+			  <td>21.0</td>
+			</tr>
+			<tr>
+			  <td>Ямбол</td>
+			  <td>15.1</td>
+			  <td>27.6</td>
+			</tr>
+		  </table>
+		  <p>Източник: НСИ България</p>
+	</div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-center w3-opacity w3-margin">
+	<p>Добра България за Хората 2025<br>
+		Powered by <a href="https://www.w3schools.com/w3css/w3css_pro.asp" target="_blank" class="w3-hover-text-red">w3pro.css</a></p>
+</footer>
+
+<!-- Script to open and close sidebar-->
+<script>
+function myMenu() {
+  var x = document.getElementById("mySidebar");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+	document.getElementById("myButton").innerHTML = "&times; &nbsp; Меню";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+	document.getElementById("myButton").innerHTML = "&#9776; &nbsp; Меню";
+  }
+}
+</script>
+
+<script>
+function Search() {
+  var input, filter, table, tr, td, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
+
+</body>
+</html>

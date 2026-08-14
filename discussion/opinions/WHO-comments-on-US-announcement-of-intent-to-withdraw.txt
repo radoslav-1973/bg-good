@@ -1,0 +1,91 @@
+				<hr>
+					
+					<div class="w3-card-4 w3-round-xlarge w3-padding">
+					<header class="w3-container w3-center w3-amber w3-round-xlarge">
+					  <p>Добра България за Хората<span class="w3-badge w3-margin-left w3-orange w3-right">1</span></p>
+					</header>
+						<div class="w3-container">
+							<p>Ние също изразяваме съжаление, защото САЩ освен с регулярните вноски са и най-големия дарител на СЗО 
+								с обща сума до 12-2023 възлизаща на 1,284,330,000 US$.</p>
+							<p>	Отделно, Фондацията Бил и Мелинда Гейтс е дарила още 829,502,000 US$</p>
+							<p>22 Януари 2025
+							<a href="https://open.who.int/2022-23/contributors/contributor?name=United%20States%20of%20America" target="_blank" class="w3-bar-item w3-button w3-right w3-margin-bottom w3-tiny w3-border w3-round-xlarge w3-hover-amber">Донори СЗО</a>
+							</p>
+						</div>
+					</div>
+					
+					<hr>
+					
+					<div class="w3-card-4 w3-round-xlarge w3-padding">
+					<header class="w3-container w3-center w3-amber w3-round-xlarge">
+					  <p>един човек<span class="w3-badge w3-margin-left w3-orange w3-right">2</span></p>
+					</header>
+						<div class="w3-container">
+							<p>Нямам представа дали Тръмп има основание да заяви, че САЩ са измамени, но действително те са предоставили най-много средства. 
+							Въпросът ми към вас е дали е възможно ЕС, чрез фонда за възтановяване на Европа да отдели някакви средства за СЗО предвид 
+							значението на Организацията за превенцията на пандемии.</p>
+							<p>22 Януари 2025</p>
+						</div>
+					</div>
+					
+					<hr>
+					
+					<div class="w3-card-4 w3-round-xlarge w3-padding">
+					<header class="w3-container w3-center w3-amber w3-round-xlarge">
+					  <p>Валери<span class="w3-badge w3-margin-left w3-orange w3-right">3</span></p>
+					</header>
+						<div class="w3-container">
+							<p>А защо да е толкова важна тази организация като не можа да предвиди пандемията и да се справи?</p>
+							<p>31 Януари 2025</p>
+						</div>
+					</div>
+					
+					<hr>
+					
+					<div class="w3-card-4 w3-round-xlarge w3-padding">
+					<header class="w3-container w3-center w3-amber w3-round-xlarge">
+					  <p>Добра България за Хората<span class="w3-badge w3-margin-left w3-orange w3-right">4</span></p>
+					</header>
+						<div class="w3-container">
+							<p>Някои неща е по-добре да се правят заедно. Безспорно е, че трябва да има глобални структури за надзор на гражданската авиация 
+							за да се гарантира, че различните системи за сигурност и контрол на въздушното движение обменят помежду си съобщения използвайки 
+							общ стандартен протокол (говорят помежду си на един и същи език). Необходимостта от структура за глобално сътрудничество в 
+							областта на здравеопазването е също толкова очевидна. МКБ (Международната Класификация на Болестите) създава общ език, който 
+							позволява да се наблюдава глобалното развитие нa заболяванията. През последните години към СЗО се присъедини и ГАВИ 
+							(Глобалният Алианс за Ваксини и Имунизации). Колкото до бързото и ефективно справяне с пандемията, то зависеше в голяма степен от 
+							националните медии, които трябваше да убедят хората да се ваксинират своевременно, вместо да създават параноя в обществото 
+							използвайки сугестия относно страничните ефекти, характерни по един или друг начин, в една или друга степен, за всеки медикамент. 
+							Не бива да забравяме, че дори солта и захарта имат странични ефекти, но същевременно, под формата на натрий и глюкоза са 
+							жизнено необходими за всички живи организми.</p>
+							<p>01 Февруари 2025</p>
+						</div>
+					</div>
+					
+					<hr>
+					
+					<div class="w3-card-4 w3-round-xlarge w3-padding">
+					<header class="w3-container w3-center w3-amber w3-round-xlarge">
+					  <p>медицинска сестра<span class="w3-badge w3-margin-left w3-orange w3-right">5</span></p>
+					</header>
+						<div class="w3-container">
+							<p>Според мен не е редно такава важна организация да се издържа основно с дарения. За мен е наистина странно, че нито един 
+							европейски фонд не е насочен към СЗО.</p>
+							<p>02 Февруари 2025</p>
+						</div>
+					</div>
+					
+					<hr>
+					
+					<div class="w3-card-4 w3-round-xlarge w3-padding">
+					<header class="w3-container w3-center w3-amber w3-round-xlarge">
+					  <p>Добра България за Хората<span class="w3-badge w3-margin-left w3-orange w3-right">6</span></p>
+					</header>
+						<div class="w3-container">
+							<p>Европейската комисия също отпуска средства на СЗО по специфично насочени програми като: „Health for All by All“, EU4Health, 
+							„One Health approach“, ECHO и др. Общата сума на тези средства за 2022-23 е 468 милиона щатски долара, с което заема пето място 
+							след GAVI Alliance.</p>
+							<p>02 Февруари 2025
+							<a href="https://www.who.int/about/funding/contributors/european-union#:~:text=December%202022%20%2D%20The%20European%20Union's,preparedness%20for%20and%20response%20to" target="_blank" class="w3-bar-item w3-button w3-right w3-tiny w3-border w3-round-xlarge w3-hover-amber">
+							EU-WHO</a></p>
+						</div>
+					</div>

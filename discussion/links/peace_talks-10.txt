@@ -1,0 +1,5 @@
+<br>
+<video src="/video/discussion/peace_talks/RF_President.mp4" style="width:100%" preload="none" poster="/video/discussion/peace_talks/posters/RF_President.webp" controls>			>
+Your browser does not support the video tag.
+</video>
+<br>

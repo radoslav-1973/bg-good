@@ -1,0 +1,4 @@
+<br>
+<video src="/video/discussion/peace_talks/TV-20250427-1806.mp4" style="width:100%" preload="none" poster="/video/discussion/peace_talks/posters/TV-20250427.webp" controls>			>
+			Your browser does not support the video tag.
+	</video>

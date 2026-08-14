@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="787px"
+   height="280px"
+   viewBox="0 0 787 280"
+   version="1.1"
+   id="svg128"
+   sodipodi:docname="desktop-slider-06-bg.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview128"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1829733"
+     inkscape:cx="393.5"
+     inkscape:cy="140.32438"
+     inkscape:window-width="2560"
+     inkscape:window-height="1010"
+     inkscape:window-x="2873"
+     inkscape:window-y="330"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg128" />
+  <title
+     id="title1">desktop-slider-06-en</title>
+  <defs
+     id="defs1">
+    <path
+       d="M15.4366667,0 L94.6,0 C95.0766667,0 95.5533334,0.184343435 95.8833334,0.553030303 L110,14.7474747 L0,14.7474747 L14.1166666,0.553030303 C14.4833334,0.184343435 14.96,0 15.4366667,0 Z"
+       id="path-1" />
+  </defs>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="vorlage-copy-7"
+       transform="translate(-121.000000, -6410.000000)">
+      <g
+         id="desktop-slider-06-en"
+         transform="translate(121.000000, 6410.000000)">
+        <path
+           d="M786,268 C786,271.182858 784.73684,274.235598 782.486219,276.486219 C780.235598,278.73684 777.182858,280 774,280 L12,280 C5.37329195,280 0,274.626708 0,268 L0,12 C0,5.37486834 5.37486834,0.00551405335 12,0 L774,0 C780.626639,0 786,5.37336053 786,12 L786,268 Z"
+           id="Path-Copy-26"
+           fill="#F5F6F7"
+           fill-rule="nonzero" />
+        <g
+           id="Group-Copy-12"
+           transform="translate(71.500000, 201.000000) scale(-1, 1) translate(-71.500000, -201.000000) translate(13.000000, 166.000000)"
+           fill-rule="nonzero">
+          <g
+             id="Path"
+             transform="translate(91.000000, 26.000000) scale(-1, 1) translate(-91.000000, -26.000000) translate(65.000000, 0.000000)">
+            <polygon
+               fill="#C60606"
+               points="18.032737 9.40875321 24.0675971 15.4418469 21.6249156 21.6185856 15.4463683 24.1323747 9.41150813 18.0274585"
+               id="polygon1" />
+            <polygon
+               fill="#B70505"
+               points="21.6249156 21.6185856 15.4463683 24.1323747 9.41150813 18.0274585 13.7221225 13.7181058"
+               id="polygon2" />
+            <polygon
+               fill="#F4EFEA"
+               points="38.0052503 29.3754203 35.6344124 35.6239816 29.3840215 38.0659481 19.6851392 28.3699048 21.9841335 22.0495209 28.3782116 19.7511994"
+               id="polygon3" />
+            <polygon
+               fill="#E9DFDA"
+               points="29.3840215 38.0659481 19.6851392 28.3699048 21.9841335 22.0495209 35.6344124 35.6239816"
+               id="polygon4" />
+            <path
+               d="M50.2186579,41.5852527 C51.9588753,43.3309763 52.478428,45.9515397 51.5358172,48.2288493 C50.5932062,50.5061588 48.3733336,51.9934988 45.9080435,51.999595 C44.288367,52.0035396 42.7350575,51.3565166 41.5974291,50.203958 L33.9820103,42.5907684 L35.9217867,35.9830944 L42.6032391,33.9720632 L50.2186579,41.5852527 Z"
+               fill="#C60606"
+               id="path4" />
+            <path
+               d="M50.2186579,50.203958 C49.0905558,51.3705576 47.5309848,52.0201886 45.9080435,51.9995215 C44.288367,52.0035396 42.7350575,51.3565166 41.5974291,50.203958 L33.9820103,42.5907684 L35.9217867,35.9830944 L50.2186579,50.203958 Z"
+               fill="#B70505"
+               id="path5" />
+            <polygon
+               fill="#C4E1E6"
+               points="42.6032391 33.9720632 38.0052503 29.3754203 29.3840215 38.0659481 33.9820103 42.5907684"
+               id="polygon5" />
+            <polygon
+               fill="#C4E1E6"
+               points="28.3782116 19.7511994 24.0675971 15.4418469 15.4463683 24.1323747 19.6851392 28.3699048"
+               id="polygon6" />
+            <polygon
+               fill="#1398A4"
+               points="8.26201095 21.3312955 21.3375414 8.25959251 13.0755304 0 0 13.0717029"
+               id="polygon7" />
+            <polygon
+               fill="#71A5B2"
+               points="38.2926247 38.2814157 33.694636 33.684773 29.3840215 38.0659481 33.9820103 42.5907684"
+               id="polygon8" />
+            <polygon
+               fill="#71A5B2"
+               points="24.0675971 24.0605521 19.7569827 19.7511994 15.4463683 24.1323747 19.6851392 28.3699048"
+               id="polygon9" />
+            <polygon
+               fill="#117A83"
+               points="14.7997762 14.795444 6.53776519 6.53585147 0 13.0717029 8.26201095 21.3312955"
+               id="polygon10" />
+          </g>
+          <g
+             id="g20"
+             transform="translate(35.000000, 35.000000) scale(-1, 1) translate(-35.000000, -35.000000) ">
+            <path
+               d="M14.0965172,54.4788055 L0.295058143,68.2802739 C-0.0983527142,68.673685 -0.0983527142,69.3115306 0.295058143,69.7049417 C0.688468999,70.0983528 1.32631402,70.0983528 1.71972488,69.7049417 L15.5211838,55.9034733 L14.0965172,54.4788055 Z"
+               fill="#C5C5C7"
+               id="path10" />
+            <polygon
+               fill="#6AB6BD"
+               points="60.5762695 6.48531212 65.028353 10.9373987 56.1241859 19.7525301 51.761144 15.3004436"
+               id="polygon11" />
+            <polygon
+               fill="#4F8B90"
+               points="59.0625611 5.06064442 62.0009362 7.99902157 53.1858108 16.814153 50.2474356 13.8757758"
+               id="polygon12" />
+            <polygon
+               fill="#4F8B90"
+               points="56.1241859 25.6292844 47.3090605 16.814153 57.6378943 18.2388207 60.5762695 21.2662396"
+               id="polygon13" />
+            <polygon
+               fill="#6AB6BD"
+               points="48.8227689 9.42368929 57.6378943 18.2388207 53.1858108 22.6909073 44.3706853 13.8757758"
+               id="polygon14" />
+            <path
+               d="M69.3913949,12.3620664 L66.4530198,9.42368929 L63.5146446,12.3620664 L66.4530198,15.3004436 C66.9779099,15.8253342 67.7429541,16.0303274 68.4599675,15.8382042 C69.1769808,15.6460809 69.7370321,15.0860294 69.9291553,14.3690154 C70.1212784,13.6520016 69.9162852,12.8869569 69.3913949,12.3620664 L69.3913949,12.3620664 Z"
+               fill="#4F8B90"
+               id="path14" />
+            <path
+               d="M66.4530198,12.3620664 C67.2332118,11.5379738 67.2332118,10.2477818 66.4530198,9.42368929 L57.6378943,0.608557833 C56.8264844,-0.202852611 55.5109291,-0.202852611 54.6995192,0.608557833 C53.8881093,1.41996828 53.8881093,2.73552453 54.6995192,3.54693498 L63.5146446,12.3620664 C64.3387367,13.142259 65.6289278,13.142259 66.4530198,12.3620664 L66.4530198,12.3620664 Z"
+               fill="#6AB6BD"
+               id="path15" />
+            <path
+               d="M21.0417675,44.5061316 L11.8704754,53.7664717 C10.9399314,55.0071978 11.0633166,56.743361 12.1599732,57.8400184 C13.25663,58.936676 14.9927918,59.0600612 16.2335172,58.1295166 L25.493851,48.9582182 L21.0417675,44.5061316 Z"
+               fill="#89BDC2"
+               id="path16" />
+            <polygon
+               fill="#B5E3F9"
+               points="24.692476 54.1226386 21.7541009 51.1842614 37.5144766 29.5471207 38.9391434 39.8759615"
+               id="polygon16" />
+            <polygon
+               fill="#C6E9F9"
+               points="21.7541009 51.1842614 15.8773506 45.3075071 30.1240179 31.0608301 40.4528518 32.4854978"
+               id="polygon17" />
+            <polygon
+               fill="#6AB6BD"
+               points="38.9391434 39.8759615 36.0007682 36.9375844 48.8227689 18.2388207 54.6995192 24.2046168"
+               id="polygon18" />
+            <polygon
+               fill="#4F8B90"
+               points="45.7953521 15.3004436 51.761144 21.2662396 36.0007682 36.9375844 30.1240179 31.0608301"
+               id="polygon19" />
+            <path
+               d="M62.0009362,28.5676616 L59.0625611,25.6292844 L56.1241859,28.5676616 L59.0625611,31.5060387 C59.8866532,32.2862313 61.1768443,32.2862313 62.0009362,31.5060387 C62.4225939,31.1341713 62.6641513,30.5990608 62.6641513,30.0368502 C62.6641513,29.4746396 62.4225939,28.939529 62.0009362,28.5676616 L62.0009362,28.5676616 Z"
+               fill="#4F8B90"
+               id="path19" />
+            <path
+               d="M59.0625611,28.5676616 C59.8427531,27.743569 59.8427531,26.453377 59.0625611,25.6292844 L41.4323102,7.99902157 C40.6209003,7.18761112 39.305345,7.18761112 38.493935,7.99902157 C37.6825251,8.81043201 37.6825251,10.1259882 38.493935,10.9373987 L56.1241859,28.5676616 C56.948278,29.3478542 58.238469,29.3478542 59.0625611,28.5676616 Z"
+               fill="#6AB6BD"
+               id="path20" />
+          </g>
+        </g>
+        <g
+           id="Group-Copy-11"
+           transform="translate(400.000000, 166.000000)">
+          <path
+             d="M1.83333334,63.7828283 L108.166666,63.7828283 C109.193333,63.7828283 110,64.5939394 110,65.6262626 L110,71.1565657 C110,72.1888888 109.193333,73 108.166666,73 L1.83333334,73 C0.806666667,73 0,72.1888888 0,71.1565657 L0,65.6262626 C0,64.5939394 0.843333334,63.7828283 1.83333334,63.7828283 Z"
+             id="path21"
+             fill="#FE8598"
+             fill-rule="nonzero" />
+          <path
+             d="M0,14.7474747 L110,14.7474747 L110,27.2459596 C110,28.2782828 109.193333,29.0893939 108.166666,29.0893939 C108.056667,29.0893939 107.946667,29.0893939 107.8,29.0525253 C88.88,25.3287879 71.2800001,25.4762626 55,29.4949495 C38.5,33.5873738 20.6433333,33.6979798 1.46666666,29.7898989 C0.623333334,29.6055556 0,28.8681818 0,27.9833334 L0,14.7474747 Z"
+             id="path22"
+             fill="#E5837C"
+             fill-rule="nonzero" />
+          <path
+             d="M108.166666,61.2020202 L1.83333334,61.2020202 C0.806666667,61.2020202 0,60.3909091 0,59.3585859 L0,34.140404 C0,33.1080808 0.806666667,32.2969697 1.83333334,32.2969697 C1.94333333,32.2969697 2.05333333,32.2969697 2.2,32.3338384 C21.12,36.0575758 38.72,35.9101011 55,31.8914141 C71.5,27.8358586 89.3566667,27.7252525 108.533334,31.5964646 C109.376667,31.7808081 110,32.5181818 110,33.4030303 L110,59.3585859 C110,60.3540404 109.193333,61.2020202 108.166666,61.2020202 Z"
+             id="path23"
+             fill="#FFCEBF"
+             fill-rule="nonzero" />
+          <path
+             d="M15.4366667,0 L94.6,0 C95.0766667,0 95.5533334,0.184343435 95.8833334,0.553030303 L110,14.7474747 L0,14.7474747 L14.1166666,0.553030303 C14.4833334,0.184343435 14.96,0 15.4366667,0 Z"
+             id="path24"
+             fill="#FFCEBF"
+             fill-rule="nonzero" />
+          <g
+             id="Oval-Clipped">
+            <mask
+               id="mask-2"
+               fill="white">
+              <use
+                 xlink:href="#path-1"
+                 id="use24" />
+            </mask>
+            <g
+               id="g24" />
+            <ellipse
+               id="Oval"
+               fill="#873F2E"
+               fill-rule="nonzero"
+               mask="url(#mask-2)"
+               cx="50.2333334"
+               cy="13.6414141"
+               rx="12.8333333"
+               ry="7.37373738" />
+          </g>
+          <ellipse
+             id="ellipse24"
+             fill="#C5E1E6"
+             fill-rule="nonzero"
+             cx="42.9"
+             cy="19.1717172"
+             rx="1.46666666"
+             ry="1.47474747" />
+          <ellipse
+             id="ellipse25"
+             fill="#C5E1E6"
+             fill-rule="nonzero"
+             cx="48.4"
+             cy="22.8585859"
+             rx="1.46666666"
+             ry="1.47474747" />
+          <ellipse
+             id="ellipse26"
+             fill="#C5E1E6"
+             fill-rule="nonzero"
+             cx="52.4333333"
+             cy="18.4343435"
+             rx="1.46666666"
+             ry="1.47474747" />
+          <g
+             id="g30"
+             transform="translate(51.365686, 14.780006)"
+             fill="#70A6B3"
+             fill-rule="nonzero">
+            <ellipse
+               cx="4.73431373"
+               cy="1.07352941"
+               rx="1.06764706"
+               ry="1.07352941"
+               id="ellipse27" />
+            <ellipse
+               cx="1.06764706"
+               cy="7.70989305"
+               rx="1.06764706"
+               ry="1.07352941"
+               id="ellipse28" />
+            <ellipse
+               cx="9.5009804"
+               cy="1.81090314"
+               rx="1.06764706"
+               ry="1.07352941"
+               id="ellipse29" />
+            <ellipse
+               cx="4.36764706"
+               cy="7.70989305"
+               rx="1.06764706"
+               ry="1.07352941"
+               id="ellipse30" />
+          </g>
+          <ellipse
+             id="ellipse31"
+             fill="#C5E1E6"
+             fill-rule="nonzero"
+             cx="58.6666666"
+             cy="18.8030303"
+             rx="1.46666666"
+             ry="1.47474747" />
+          <ellipse
+             id="ellipse32"
+             fill="#70A6B3"
+             fill-rule="nonzero"
+             cx="46.9333334"
+             cy="16.5909091"
+             rx="1.06764706"
+             ry="1.07352941" />
+          <ellipse
+             id="ellipse33"
+             fill="#70A6B3"
+             fill-rule="nonzero"
+             cx="39.6"
+             cy="15.8535354"
+             rx="1.06764706"
+             ry="1.07352941" />
+          <ellipse
+             id="ellipse34"
+             fill="#70A6B3"
+             fill-rule="nonzero"
+             cx="48.4"
+             cy="26.5454545"
+             rx="1.06764706"
+             ry="1.07352941" />
+          <ellipse
+             id="ellipse35"
+             fill="#70A6B3"
+             fill-rule="nonzero"
+             cx="41.8000001"
+             cy="23.2272727"
+             rx="1.06764706"
+             ry="1.07352941" />
+        </g>
+        <line
+           x1="1"
+           y1="28.9891"
+           x2="787"
+           y2="28.9891"
+           id="Path-Copy-29"
+           stroke="#010100"
+           stroke-width="2.0025" />
+        <circle
+           id="Oval-Copy-44"
+           stroke="#010100"
+           stroke-width="1.0013"
+           fill="#F0F0F2"
+           fill-rule="nonzero"
+           cx="333.181"
+           cy="28.9355"
+           r="4.7206" />
+        <circle
+           id="Oval-Copy-48"
+           stroke="#010100"
+           stroke-width="1.0013"
+           fill="#F0F0F2"
+           fill-rule="nonzero"
+           cx="211.9533"
+           cy="28.4945"
+           r="4.7206" />
+        <circle
+           id="Oval-Copy-51"
+           stroke="#010100"
+           stroke-width="1.0013"
+           fill="#F0F0F2"
+           fill-rule="nonzero"
+           cx="454.4088"
+           cy="28.9891"
+           r="4.7266" />
+        <circle
+           id="Oval-Copy-52"
+           stroke="#010100"
+           stroke-width="1.0013"
+           fill="#F0F0F2"
+           fill-rule="nonzero"
+           cx="575.6366"
+           cy="28.9891"
+           r="4.7266" />
+        <circle
+           id="Oval-Copy-66"
+           stroke="#010100"
+           stroke-width="1.0013"
+           fill="#F0F0F2"
+           fill-rule="nonzero"
+           cx="706.6366"
+           cy="28.9891"
+           r="4.7266" />
+        <line
+           x1="82"
+           y1="74"
+           x2="81.6691"
+           y2="33.506"
+           id="Path-Copy-30"
+           stroke="#949494"
+           stroke-width="2" />
+        <line
+           x1="455"
+           y1="74"
+           x2="454.6691"
+           y2="33.506"
+           id="Path-Copy-31"
+           stroke="#949494"
+           stroke-width="2" />
+        <circle
+           id="Oval-Copy-54"
+           stroke="#F7BB3C"
+           stroke-width="3"
+           fill="#E0003F"
+           fill-rule="nonzero"
+           cx="81.7794"
+           cy="28.8321"
+           r="6.2206" />
+        <circle
+           id="Oval-Copy-55"
+           stroke="#F7BB3C"
+           stroke-width="3"
+           fill="#E0003F"
+           fill-rule="nonzero"
+           cx="454.7794"
+           cy="28.8321"
+           r="6.2206" />
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:18.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';fill:#008000"
+     x="97.212669"
+     y="74.388824"
+     id="text128"><tspan
+       sodipodi:role="line"
+       id="tspan128"
+       x="97.212669"
+       y="74.388824"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000">Мъже и жени от 35 години</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000"
+     x="465.77548"
+     y="73.543495"
+     id="text130"><tspan
+       sodipodi:role="line"
+       id="tspan130"
+       x="465.77548"
+       y="73.543495">Мъже и жени от 35 години</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000"
+     x="159.76692"
+     y="178.36412"
+     id="text131"><tspan
+       sodipodi:role="line"
+       id="tspan131"
+       x="159.76692"
+       y="178.36412"
+       style="fill:#000000">Изследване за</tspan><tspan
+       sodipodi:role="line"
+       x="159.76692"
+       y="201.69749"
+       id="tspan132"
+       style="fill:#000000">хепатит В и С</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+     x="544.39099"
+     y="181.74544"
+     id="text133"><tspan
+       sodipodi:role="line"
+       id="tspan133"
+       x="544.39099"
+       y="181.74544">Изследване за</tspan><tspan
+       sodipodi:role="line"
+       x="544.39099"
+       y="205.07881"
+       id="tspan134">рак на кожата</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+     x="159.76692"
+     y="230.77444"
+     id="text135"><tspan
+       sodipodi:role="line"
+       id="tspan135"
+       x="159.76692"
+       y="230.77444"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008000">Еднократно</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008000"
+     x="544.39099"
+     y="234.15575"
+     id="text136"><tspan
+       sodipodi:role="line"
+       id="tspan136"
+       x="544.39099"
+       y="234.15575">На всеки 2 години</tspan></text>
+</svg>

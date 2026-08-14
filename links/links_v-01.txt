@@ -1,0 +1,19 @@
+<h3>SMR's компании</h3>
+<p><a target="_blank" href="https://www.rolls-royce.com/innovation/small-modular-reactors.aspx#/" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Rolls-Royce plc (UK)</a><br>
+<a target="_blank" href="https://www.mhi.com/business/nuclear" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Mitsubishi Heavy Industries (Japan)</a><br>
+<a target="_blank" href="https://www.gevernova.com/nuclear" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">GE Hitachi Nuclear Energy (US)</a><br>
+<a target="_blank" href="https://rosatom.ru/en/about-us/" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Rosatom (Russia)</a><br>
+<a target="_blank" href="https://westinghousenuclear.com/" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Westinghouse Electric Company (US)</a><br>
+<a target="_blank" href="https://www.nuscalepower.com/en" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">NuScale Power, LLC.(US)</a><br>
+<a target="_blank" href="https://www.usnc.com/" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Ultra Safe Nuclear (US)</a><br>
+<a target="_blank" href="https://www.kepco-enc.com/index.es?sid=a2" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Kepco Engineering (Canada)</a><br>
+<a target="_blank" href="https://www.terrestrialenergy.com/technology/leading-the-way" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Terrestrial Energy (US)</a><br>
+<a target="_blank" href="https://www.moltexenergy.com/" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Moltex Energy (Canada)</a><br>
+<a target="_blank" href="https://x-energy.com/" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">X-Energy, LLC. (US)</a><br>
+<a target="_blank" href="https://holtecinternational.com/" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Holtec International (US)</a><br>
+<a target="_blank" href="https://www.ga.com/" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">General Atomics (US)</a><br>
+<a target="_blank" href="https://kairospower.com/" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Karros Power (US)</a><br>
+<a target="_blank" href="https://en.cnnc.com.cn/" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Nuclear Corporation (China)</a><br>
+<a target="_blank" href="https://www.jimmy-energy.eu/generateur" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Jimmy Energy (FR)</a><br>
+<a target="_blank" href="https://www.global.toshiba/ww/company/energy.html" class="w3-bar-item w3-button w3-text-black w3-hover-light-blue">Toshiba Energy Systems (Japan)</a>
+</p>	

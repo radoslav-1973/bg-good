@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+<title>Контакт</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/w3pro.css">
+<style>
+.w3-blue{color:#fff!important;background-color:#3589f1!important}
+.w3-light-blue,.w3-hover-light-blue:hover{color:#000!important;background-color:#98c3f8!important}
+.w3-light2-blue,.w3-hover-light2-blue:hover{color:#000!important;background-color:#76aff5!important}
+.w3-text-red,.w3-hover-text-red:hover{color:#f44336!important}
+.w3-red{color:#fff!important;background-color:#f44336!important}
+.w3-green{color:#fff!important;background-color:#4CAF50!important}
+</style>
+
+<meta 
+	name="Страница за контакт"
+	content="Оставете вашето мнение">
+</head>
+
+<body class="w3-light-gray">
+
+<div class="w3-top w3-blue">
+	<a href="/" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-left">Начало</a>
+	<a target="_blank" href="https://www.parliament.bg/bg/const" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-hide-small w3-hide-medium w3-left">Конституция </a>
+	<a href="#" class="w3-bar-item w3-button w3-padding-16 w3-light2-blue w3-hover-light2-blue w3-hide-small w3-hide-medium w3-right">Контакт</a>
+	<a href="/links.html" class="w3-bar-item  w3-button w3-padding-16 w3-hover-light-blue w3-hide-small w3-hide-medium w3-right">Връзки</a>
+	<a href="javascript:void(0)" id="myButton" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-right w3-hide-large" style="width: 100px" onclick="myMenu()">&#9776; &nbsp; Меню</a>  
+<div class="w3-bar w3-blue" style="text-align: center; width: 12%; min-width: 330px; margin: auto;">
+	<a href="/base.html" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-hide-small w3-hide-medium">База</a>
+	<a href="/facts/" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-hide-small w3-hide-medium">Факти</a>
+	<a href="/discussion/page/1/" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-hide-small w3-hide-medium">Дискусия</a>
+	<a href="/benevoles/" class="w3-bar-item w3-button w3-padding-16 w3-hover-light-blue w3-hide-small w3-hide-medium">Доброволци</a>
+</div>
+</div>
+
+<nav id="mySidebar" class="w3-sidebar w3-bar-block w3-card w3-top w3-blue w3-center w3-hide w3-hide-large" style="width: 100%; height: 65%; margin-top: 54px;">
+	<img class="w3-image w3-padding-32" src="/images/logo/tree-1.svg" alt="tree" style="width: 25%;">
+	<img class="w3-image w3-padding-32" src="/images/logo/nuclear-power-plant.svg" alt="nuclear-power-plant" style="width: 15%;">
+	<img class="w3-image w3-padding-32" src="/images/logo/tree-2.svg" alt="tree" style="width: 25%;">
+	<a target="_blank" href="https://www.parliament.bg/bg/const" class="w3-bar-item w3-button w3-padding-16 w3-border w3-hover-light-blue">Конституция </a>
+	<a href="/base.html" class="w3-bar-item w3-button w3-padding-16 w3-border-bottom w3-hover-light-blue">База</a>
+	<a href="/facts/" class="w3-bar-item w3-button w3-padding-16 w3-border-bottom w3-hover-light-blue">Факти</a>
+	<a href="/discussion/page/1/" class="w3-bar-item w3-button w3-padding-16 w3-border-bottom w3-hover-light-blue ">Дискусия</a>
+	<a href="/benevoles/" class="w3-bar-item w3-button w3-padding-64 w3-border-bottom w3-hover-light-blue">Доброволци</a>
+	<a href="/links.html" class="w3-bar-item w3-button w3-padding-16 w3-border-bottom w3-hover-light-blue ">Връзки</a>
+	<a href="#" class="w3-bar-item w3-button w3-padding-16 w3-border-bottom w3-light2-blue w3-hover-light2-blue">Контакт</a>
+	<a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding-16 w3-border-bottom w3-hover-light-blue" onclick="myMenu()">&times; Затвори</a>
+</nav>
+
+<div class="w3-content" style="max-width: 810px; margin-top: 95px">
+	<div class="w3-container w3-center">
+		<img class="w3-image w3-margin-bottom" src="/images/flag_of_Europe.svg" alt="flag_of_Europe" style="width: 100%">
+		<img src="/images/logo/tree-1.svg" alt="tree" style="width: 30%;">
+		<img src="/images/logo/nuclear-power-plant.svg" alt="nuclear-power-plant" style="width: 15%;">
+		<img src="/images/logo/tree-2.svg" alt="tree" style="width: 30%;">
+		<h3>Благодарим Ви!</h3>
+		<p>Вашето съобщение е изпратено.<br>Ще се свържем с Вас скоро.</p>
+		<h3>Контакт</h3>
+		<form method="post" action="/action_page.php">
+			<input class="w3-input w3-margin-top w3-border" type="text" placeholder="Име" required="" name="Name">
+			<input class="w3-input w3-green w3-border" type="text" placeholder="Е-поща" required="" name="Email">
+			<input class="w3-input w3-red w3-border" type="text" placeholder="Съобщение" required="" name="Message" spellcheck="false" data-ms-editor="true">
+			<button class="w3-button w3-blue w3-margin-top w3-hover-light-blue w3-right w3-padding-small" type="submit">Изпрати</button>
+		</form>
+	</div>	
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-center w3-opacity w3-margin">
+	<p>Добра България за Хората 2025<br>
+		Powered by <a href="https://www.w3schools.com/w3css/w3css_pro.asp" target="_blank" class="w3-hover-text-red">w3pro.css</a></p>
+</footer>
+
+<!-- Script to open and close sidebar-->
+<script>
+function myMenu() {
+  var x = document.getElementById("mySidebar");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+	document.getElementById("myButton").innerHTML = "&times; &nbsp; Меню";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+	document.getElementById("myButton").innerHTML = "&#9776; &nbsp; Меню";
+  }
+}
+</script>
+
+</body>
+</html>
