@@ -1,0 +1,22 @@
+{
+  "name": "bg-good-1",
+  "version": "1.0.0",
+  "description": "„Добра България за Хората“ е малък макет на платформа за политическа дискусия.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radoslav-1973/bg-good.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/radoslav-1973/bg-good/issues"
+  },
+  "homepage": "https://github.com/radoslav-1973/bg-good#readme",
+  "devDependencies": {
+    "vite": "^8.2.2"
+  }
+}
